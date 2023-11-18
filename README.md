@@ -4,7 +4,7 @@ O objetivo do projeto foi desenvolver um sistema anticolisão para estruturas m�
 
 O microcontrolador utilizado foi uma ESP32 NodeMCU 32S, o Sistema Supervisório utilizado foi o SCADABR e o protocolo de comunicação MODBUS TCP.
 
-** Lista de materiais utilizados: **
+**Lista de materiais utilizados:**
 
   - 1x ESP32
   - 1x PROTOBOARD
