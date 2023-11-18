@@ -1,6 +1,6 @@
-# Sistema-anticolisao
+# Sistema Anticolisao
 
-O objetivo do projeto foi desenvolver um sistema anticolisão para estruturas móveis, um protótipo foi criado baseado em uma máquina de pátio.
+O objetivo do projeto foi desenvolver um protótipo de um sistema anticolisão para estruturas móveis, o protótipo foi criado baseado em uma máquina de pátio.
 
 O microcontrolador utilizado foi uma ESP32 NodeMCU 32S, o Sistema Supervisório utilizado foi o SCADABR e o protocolo de comunicação MODBUS TCP.
 
